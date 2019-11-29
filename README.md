@@ -40,9 +40,12 @@ To have a deeper knowledge of the stuff you manipulate everyday, you must read t
 
 ### Level: introduction
 
+* Histoire des codes secrets, by Simon Singh (fr): a must have to understand from where comes the cryptography
 * Techniques de Hacking, by Jon Erikson (fr): covers the basics of system and network exploitation, c programming seen by the hacker point of view
+* [The Art of UNIX Programming](https://www.arp242.net/the-art-of-unix-programming/) (en): book that explains the philosophy behind unix and linux. No code involved, only history, culture, impacts, practical aspects. Thoughtful
 
 ### Level: intermediate
 
 * Modern Operating Systems, Andrew Tannenbaum, 4th ed. (en): know how Operating Systems work, with algorithms, definitions, architecture
+* Applied Cryptography: Protocols, Algorithms, and Source Code in C, by Bruce Schneier
 
