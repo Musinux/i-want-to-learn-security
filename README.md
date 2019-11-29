@@ -12,8 +12,10 @@ After all, learning security is a matter of knowledge about what you want to sec
 
 ### Level: Introduction, general knowledge
 
-* [Hacker News](https://news.ycombinator.com/best) read news from the Hacker community (not only security, everything about IT, or not even related to IT). Learn the language, the keywords, the terms, the concepts, by being exposed regularly to it. If you don't understand a word, Google it.
-* [Bleeping computer](https://www.bleepingcomputer.com/) news site dedicated to security. Well explained, greatly sourced
+* [Hacker News](https://news.ycombinator.com/best) (en): read news from the Hacker community (not only security, everything about IT, or not even related to IT). Learn the language, the keywords, the terms, the concepts, by being exposed regularly to it. If you don't understand a word, Google it.
+* [Bleeping computer](https://www.bleepingcomputer.com/) (en): news site dedicated to security. Well explained, greatly sourced
+* [Next Inpact](https://www.nextinpact.com/) (fr): great website about the digital world. Not related to security, more about IT.
+* [Développez.com Sécurité](https://securite.developpez.com/) (fr): news about security issues, in french.
 
 ### Level: high
 
