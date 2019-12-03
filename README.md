@@ -47,6 +47,7 @@ To have a deeper knowledge of the stuff you manipulate everyday, you must read t
 
 ### Level: intermediate
 
-* Modern Operating Systems, Andrew Tannenbaum, 4th ed. (en): know how Operating Systems work, with algorithms, definitions, architecture
+* Modern Operating Systems, Andrew S. Tannenbaum, 4th ed. (en): know how Operating Systems work, with algorithms, definitions, architecture
+* Computer Networks, Andrew S. Tannenbaum, 5th ed. (en): know how Networks work
 * Applied Cryptography: Protocols, Algorithms, and Source Code in C, by Bruce Schneier
 
