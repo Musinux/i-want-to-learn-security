@@ -1,6 +1,6 @@
 # i-want-to-learn-security
 
-As a teacher, I frequently get started with the following question: "I'd like to learn security, but where to start ?"
+As a teacher, I frequently get asked the following question: "I'd like to learn security, but where to start ?"
 
 This document is a list of resources to help you learn stuff related to security.
 
