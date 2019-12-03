@@ -16,6 +16,7 @@ After all, learning security is a matter of knowledge about what you want to sec
 * [Bleeping computer](https://www.bleepingcomputer.com/) (en): news site dedicated to security. Well explained, greatly sourced
 * [Next Inpact](https://www.nextinpact.com/) (fr): great website about the digital world. Not related to security, more about IT.
 * [Développez.com Sécurité](https://securite.developpez.com/) (fr): news about security issues, in french.
+* [Computerphile (youtube channel)](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA) (en): computer enthousiasts talking about IT, and security (crypto, etc.). Really well explained.
 
 ### Level: high
 
