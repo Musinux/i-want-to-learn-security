@@ -51,3 +51,10 @@ To have a deeper knowledge of the stuff you manipulate everyday, you must read t
 * Computer Networks, Andrew S. Tannenbaum, 5th ed. (en): know how Networks work
 * Applied Cryptography: Protocols, Algorithms, and Source Code in C, by Bruce Schneier
 
+## Interesting Stuff
+
+Other interesting stuff that may be of interest (Generally gathered from great Hacker News posts)
+
+* [O(n^2), again, now in WMI (blog post, about performance debugging on Windows)](https://randomascii.wordpress.com/2019/12/08/on2-again-now-in-wmi/)
+
+
