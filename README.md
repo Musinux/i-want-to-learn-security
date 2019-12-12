@@ -58,3 +58,4 @@ Other interesting stuff that may be of interest (Generally gathered from great H
 * [O(n^2), again, now in WMI (blog post, about performance debugging on Windows)](https://randomascii.wordpress.com/2019/12/08/on2-again-now-in-wmi/)
 
 
+* I also maintain a list about [Node.js interesting stuff](https://github.com/Musinux/links-about-node), if you want to have a look
