@@ -58,5 +58,5 @@ Other interesting stuff that may be of interest (Generally gathered from great H
 * [O(n^2), again, now in WMI (blog post, about performance debugging on Windows)](https://randomascii.wordpress.com/2019/12/08/on2-again-now-in-wmi/)
 * [Use-after-free explanation (Live Overflow), from an exploit in iOS](https://www.youtube.com/watch?v=YV3jewkUJ54)
 * [ToTok App analysis, chat app that sends info to a government (blog post)](https://objective-see.com/blog/blog_0x52.html)
-
+* [Explanation of Smart Home devices light vulnerabilities (Smarter Everyday)](https://www.youtube.com/watch?v=ozIKwGt38LQ&t=329s)
 * I also maintain a list about [Node.js interesting stuff](https://github.com/Musinux/links-about-node), if you want to have a look
