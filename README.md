@@ -18,9 +18,9 @@ After all, learning security is a matter of knowledge about what you want to sec
 * [Développez.com Sécurité](https://securite.developpez.com/) (fr): news about security issues, in french.
 * [Computerphile (youtube channel)](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA) (en): computer enthousiasts talking about IT, and security (crypto, etc.). Really well explained.
 
-## Level: middle
+## Level: intermediate
 
-* [C Internals (course)](http://www.avabodh.com/cin/cin.html)
+* [C Internals (course)](http://www.avabodh.com/cin/cin.html): learn the basics of how C language is interpreted into intel x86 assembly. Useful for debugging C applications & reverse-engineering
 
 ### Level: high
 
