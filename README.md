@@ -18,6 +18,10 @@ After all, learning security is a matter of knowledge about what you want to sec
 * [Développez.com Sécurité](https://securite.developpez.com/) (fr): news about security issues, in french.
 * [Computerphile (youtube channel)](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA) (en): computer enthousiasts talking about IT, and security (crypto, etc.). Really well explained.
 
+## Level: middle
+
+* [C Internals (course)](http://www.avabodh.com/cin/cin.html)
+
 ### Level: high
 
 * [Google Project Zero (blog)](https://googleprojectzero.blogspot.com/): highly technical blog articles about vulnerabilities found by the Project Zero team at Google. Hard to read, but well written and first-hand content (spectre, windows vulns, one-byte overflow leading to RCE,...)
