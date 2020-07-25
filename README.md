@@ -9,7 +9,7 @@ It will be updated from time to time.
 ## Get some culture
 
 After all, learning security is a matter of knowledge about what you want to secure. Knowing what exists may be a good starting point
-
+Don't get my word on it: [Brian Krebs: Thinking of a cybersecurity career? Read This](https://krebsonsecurity.com/2020/07/thinking-of-a-cybersecurity-career-read-this/)
 ### Level: Introduction, general knowledge
 
 * [Hacker News](https://news.ycombinator.com/best) (en): read news from the Hacker community (not only security, everything about IT, or not even related to IT). Learn the language, the keywords, the terms, the concepts, by being exposed regularly to it. If you don't understand a word, Google it.
